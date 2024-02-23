@@ -1,0 +1,22 @@
+html {
+  font-family: sans-serif;
+}
+
+/* Your CSS below here */
+div {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 18px;
+  background-color: lightseagreen;
+  border-radius: 10px;
+  border: 1px solid #2e8b57;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.5),inset 3px 6px 7px rgba(255, 255, 255, 0.5),inset -3px -5px 6px rgba(0, 0, 0, 0.5);
+  color: white;
+  text-shadow: 1px 1px 1px black;
+  background-image: linear-gradient(to bottom right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2) 30%, rgba(0, 0, 0, 0.2));
+}
