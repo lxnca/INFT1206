@@ -166,14 +166,14 @@ img, audio {
 }
 
 audio {
-  width: 550px;
+  width: 545px;
 }
 
 /* Comments styling */
 
 .comments {
   background-color: #def;
-  padding: 12px;
+  padding: 12.5px;
 }
 
 .show-hide {
